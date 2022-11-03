@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harrish
 - 👀 I’m interested in Web Development and Designing 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Hackathons and Projects based on Web Development Web Designing
+- 💞️ I’m looking to collaborate on Hackathons and Projects based on Web Development and Designing
 - 📫 How to reach me DM me
 
 <!---
