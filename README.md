@@ -1,3 +1,4 @@
+[![An image of @harrishdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harrishdev)](https://holopin.io/@harrishdev)
 <h1 align="center">Hi 👋, I'm harrish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
